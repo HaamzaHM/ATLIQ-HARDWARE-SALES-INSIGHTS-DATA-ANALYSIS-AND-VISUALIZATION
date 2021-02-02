@@ -7,3 +7,10 @@ I have analyse this database and than hook it up with power BI. In power BI I pe
 ETL and data cleaning operations to make it ready so that we can build our dashboard. Then
 build a powerful dashboard that can help us generate sales insights on Atliq hardware business. .
 </P>
+<h4>TOTAL SALES</h4>
+<img src="dashboard1.PNG" alt="Sales Insights">
+<h4>SALES 2019</h4>
+<img src="dashboard2.PNG" alt="Sales Insights">
+<h4>SALES 2020</h4>
+<img src="dashboard3.PNG" alt="Sales Insights">
+
